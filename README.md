@@ -1,8 +1,8 @@
 # FileSystemElementsComparator
 ---- Program Description ----<br />
 
-The following classes implement java.util.Comparator and can be used to sort file system elements: AlphabeticalComparator, <br />
-ReverseAlphabeticalComparator, SizeComparator, and ReverseSizeComparator.<br />
+The following classes implement java.util.Comparator and can be used to sort file system elements:<br />
+AlphabeticalComparator, ReverseAlphabeticalComparator, SizeComparator, and ReverseSizeComparator.<br />
 The ApfsVisitor is implemented by the ApfsFileCrawlingVisitor, ApfsFileSearchVisitor, and ApfsCountingVisitor classes.<br />
 The /fs package still contains the file system foundation classes, and other types of <br />
 file systems like FAT32 or NTFS can added modularly.
