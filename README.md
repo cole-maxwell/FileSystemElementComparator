@@ -1,4 +1,4 @@
-# FileSystemElementsComparator
+# FileSystemElementComparator
 ---- Program Description ----<br />
 
 The following classes implement java.util.Comparator and can be used to sort file system elements:<br />
